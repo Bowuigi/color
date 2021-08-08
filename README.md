@@ -10,6 +10,13 @@ Move it somewhere on your PATH (I recommend using `/usr/local/bin/`)
 
 Done
 
+Usage
+---
+
+`color [color/attribute name]; command to colorize`
+
+That is it
+
 Colors supported
 ---
 
